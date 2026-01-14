@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Power Options</string>
+    <string name="accessibility_service_description">This service provides custom power menu options.</string>
 </resources>

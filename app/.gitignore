@@ -1,1 +1,46 @@
-/build
+gitignore
+# IDE files and directories
+.idea/
+.gradle/
+*.iml
+*.hprof
+*.orig
+build/
+local.properties
+
+# Android Studio-specific files
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.apks
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google services file (if you add it manually)
+google-services.json
+
+# Environment variable files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Lint results
+lint-results-debug.xml
+lint-results-release.xml
+
+# Misc
+*.lock
+*.DS_Store
