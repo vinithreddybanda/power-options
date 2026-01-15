@@ -2,7 +2,7 @@
 
 An Android application that provides a simple, on-screen power menu for users whose physical power button may be broken or hard to access.
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-100%25-purple.svg)](https://kotlinlang.org/)
 
@@ -40,17 +40,7 @@ You can download the latest APK from the releases section on GitHub.
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
-
-```
-Copyright 2024 VINITH REDDY BANDA
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-```
+This project is licensed under the GNU General Public License v3.0. See the `LICENSE` file for details.
 
 ## Disclaimer
 
