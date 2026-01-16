@@ -16,10 +16,6 @@ Power Options is a straightforward utility that uses Android's Accessibility Ser
 - **Core Functions:**
     - Power Off
     - Standard Reboot
-- **Advanced Options (Root may be required):**
-    - Soft Reboot
-    - Reboot to Recovery
-    - Reboot to Bootloader
 - **Accessibility Driven:** Designed as an alternative to physical button input.
 
 ## Sponsorship
@@ -32,7 +28,6 @@ If you find this project useful, please consider sponsoring:
 
 The app uses an Accessibility Service to display an overlay with power options. To use the app, you must first enable the "Power Options" service in your device's Accessibility settings.
 
-**Note:** Advanced reboot options (like Recovery and Bootloader) may require your device to be rooted.
 
 ## Installation
 
